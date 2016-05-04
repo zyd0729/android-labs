@@ -4,7 +4,7 @@ import android.app.Activity;
 import android.os.Bundle;
 import android.view.Window;
 
-public class com1314080901143Activity extends Activity {
+public class Com1314080901143Activity extends Activity {
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
